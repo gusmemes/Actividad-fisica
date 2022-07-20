@@ -1,0 +1,48 @@
+.facebook{
+
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    color:blue;   
+    
+}
+.facebook:hover{
+    background-color: grey;
+}
+
+.icono{
+    height: 39px;
+    width: 35px;
+}
+
+.instagram{
+
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    color: rgb(36, 41, 34);
+}
+.instagram:hover{
+    background-color: grey;
+}
+
+.icono2{
+    height: 35px;
+    width: 35px;
+}
+
+.twiter{
+
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    color: rgb(47, 108, 158);
+}
+.twiter:hover{
+    background-color: grey;
+}
+
+.icono3{
+    height: 35px;
+    width: 35px;
+}

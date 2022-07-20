@@ -1,0 +1,27 @@
+.objetivos{
+color: yellow;
+font-size: 25px;
+font-family:cursive;
+text-align: center;
+margin: 20px, 0;
+}
+
+.aplicacion-tareas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.tareas-lista-principal{
+width: 600px;
+min-height: 500px;
+background-color: rgb(26, 24, 24);
+padding: 25px;
+margin: 10px;
+justify-content: center;
+border-radius: 26px;
+
+}
+
