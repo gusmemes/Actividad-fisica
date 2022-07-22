@@ -58,7 +58,7 @@ export const LoginRouter = () => {
           <Route path="Quemadores" element={<Quemadores />} />
           <Route path="Objetivos" element={<Objetivos />} />
 
-          <Route path="/" element={<Navigate to="/Entrenamiento" />} />
+          <Route path="/" element={<Navigate to="/Inicio" />} />
 
 
 

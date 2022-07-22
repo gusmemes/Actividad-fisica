@@ -7,7 +7,7 @@ export const Objetivos = () => {
     <div className='aplicacion-tareas'>
 
       <div className='tareas-lista-principal'>
-        <p className='objetivos'>Mis objetivos del entrenamiento de hoy</p>
+        <p className='objetivos'>Mis objetivos</p>
         <ListaDeTareas />
 
       </div>

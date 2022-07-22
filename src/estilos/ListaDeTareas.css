@@ -7,3 +7,9 @@
     margin-top: 15px;
 
 }
+
+@media (max-width: 300px){
+    .tarea-lista-contenedor{
+        flex-direction: column;
+    }
+}

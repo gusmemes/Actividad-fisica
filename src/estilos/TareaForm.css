@@ -14,3 +14,13 @@
     border: 2px solid green;
     outline: none;
 }
+
+@media (max-width: 550px){
+    .tarea-formulario{
+        flex-direction: column;
+    }
+    .tarea-input{
+        flex-direction: column;
+    }
+
+}

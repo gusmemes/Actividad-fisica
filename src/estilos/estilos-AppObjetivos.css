@@ -1,9 +1,12 @@
 .objetivos{
 color: yellow;
-font-size: 25px;
-font-family:cursive;
+display: flex;
+
+font-family: cursive;
 text-align: center;
-margin: 20px, 0;
+justify-content: center;
+margin: 1.25em, 0;
+
 }
 
 .aplicacion-tareas{
@@ -15,13 +18,22 @@ margin: 20px, 0;
 }
 
 .tareas-lista-principal{
-width: 600px;
-min-height: 500px;
+width: 37.5em;
+min-height: 31.25em;
 background-color: rgb(26, 24, 24);
-padding: 25px;
-margin: 10px;
+padding: 1.5625em;
+margin: 0.625em;
 justify-content: center;
-border-radius: 26px;
+border-radius: 1.625em;
 
 }
+
+@media (max-width: 500px){
+    .objetivos{
+    font-size: 1.5625em;
+
+   
+ }
+}
+
 
